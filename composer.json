@@ -1,7 +1,7 @@
 {
     "name": "ddelivery/sdk",
     "description": "sdk",
-    "minimum-stability": "dev",
+
     "license": "proprietary",
     "type": "library",
     "keywords": ["delivery"],
@@ -20,5 +20,5 @@
             "DDelivery": "application/classes"
         }
     },
-    "version": "2.1.9-RC"
+    "version": "2.1.9"
 }
